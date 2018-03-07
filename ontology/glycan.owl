@@ -6710,6 +6710,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carbohydrate_format_smiles</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">SMILES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#carbohydrate_format_csdb</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">csdb</Literal>
     </AnnotationAssertion>
