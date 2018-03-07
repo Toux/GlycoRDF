@@ -366,6 +366,9 @@
         <NamedIndividual IRI="#carbohydrate_format_carbbank"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#carbohydrate_format_smiles"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#substituent_type_s_pyruvate"/>
     </Declaration>
     <Declaration>
